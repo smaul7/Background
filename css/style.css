@@ -109,10 +109,14 @@ p.joinform-info{
     width: 100%;
     height: 88px;
     background-image: linear-gradient(90deg, #EDF6EF, #52C368);
+}
+
+.gradient-body{
+    height: 88px;
     padding: 0 23px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center;    
 }
 
 .gradient-link{
